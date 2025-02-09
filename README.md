@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/bb76da31-2945-4542-9297-bc050cf60b00" width="100%" height="30%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/bb76da31-2945-4542-9297-bc050cf60b00" width="80%" height="30%"/></p>
 This Bash script fetches and processes `robots.txt` files from specified URLs. It extracts the disallowed paths and outputs the full URLs for each disallowed path.
 
 ## Features
