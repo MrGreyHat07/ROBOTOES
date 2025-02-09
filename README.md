@@ -4,7 +4,6 @@ This Bash script fetches and processes `robots.txt` files from specified URLs. I
 
 - Process a single `robots.txt` URL.
 - Process a list of `robots.txt` URLs from a file.
-- Displays helpful information regarding usage, including an ASCII art banner and author credit.
 
 ## Prerequisites
 
